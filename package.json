@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-fall/a01-oapo1804/issues"
   },
-  "homepage": "https://github.com/comp426-2022-fall/a01-oapo1804#readme"
+  "homepage": "https://github.com/comp426-2022-fall/a01-oapo1804#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
 }
